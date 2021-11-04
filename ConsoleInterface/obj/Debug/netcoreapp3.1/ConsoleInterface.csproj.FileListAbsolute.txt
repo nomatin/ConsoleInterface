@@ -25,3 +25,17 @@ D:\project\ConsoleInterface\ConsoleInterface\obj\Debug\netcoreapp3.1\ConsoleInte
 D:\project\ConsoleInterface\ConsoleInterface\obj\Debug\netcoreapp3.1\ConsoleInterface.genruntimeconfig.cache
 D:\project\ConsoleInterface\ConsoleInterface\obj\Debug\netcoreapp3.1\ConsoleInterface.csproj.AssemblyReference.cache
 D:\project\ConsoleInterface\ConsoleInterface\obj\Debug\netcoreapp3.1\ConsoleInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\git\ConsoleInterface\ConsoleInterface\bin\Debug\netcoreapp3.1\ConsoleInterface.exe
+D:\project\git\ConsoleInterface\ConsoleInterface\bin\Debug\netcoreapp3.1\ConsoleInterface.deps.json
+D:\project\git\ConsoleInterface\ConsoleInterface\bin\Debug\netcoreapp3.1\ConsoleInterface.runtimeconfig.json
+D:\project\git\ConsoleInterface\ConsoleInterface\bin\Debug\netcoreapp3.1\ConsoleInterface.runtimeconfig.dev.json
+D:\project\git\ConsoleInterface\ConsoleInterface\bin\Debug\netcoreapp3.1\ConsoleInterface.dll
+D:\project\git\ConsoleInterface\ConsoleInterface\bin\Debug\netcoreapp3.1\ConsoleInterface.pdb
+D:\project\git\ConsoleInterface\ConsoleInterface\obj\Debug\netcoreapp3.1\ConsoleInterface.csproj.AssemblyReference.cache
+D:\project\git\ConsoleInterface\ConsoleInterface\obj\Debug\netcoreapp3.1\ConsoleInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\git\ConsoleInterface\ConsoleInterface\obj\Debug\netcoreapp3.1\ConsoleInterface.AssemblyInfoInputs.cache
+D:\project\git\ConsoleInterface\ConsoleInterface\obj\Debug\netcoreapp3.1\ConsoleInterface.AssemblyInfo.cs
+D:\project\git\ConsoleInterface\ConsoleInterface\obj\Debug\netcoreapp3.1\ConsoleInterface.csproj.CoreCompileInputs.cache
+D:\project\git\ConsoleInterface\ConsoleInterface\obj\Debug\netcoreapp3.1\ConsoleInterface.dll
+D:\project\git\ConsoleInterface\ConsoleInterface\obj\Debug\netcoreapp3.1\ConsoleInterface.pdb
+D:\project\git\ConsoleInterface\ConsoleInterface\obj\Debug\netcoreapp3.1\ConsoleInterface.genruntimeconfig.cache

@@ -24,6 +24,14 @@ namespace ConsoleInterface.Classes
         {
             this.action = action;
         }
+        public Entry(int x, int y,  Delegate action, string text) : base(x, y, 10, text, leftstandartVisual, rightstandartVisual, StandartConectorBafge, StandartСalmBadge, StandartInvertBadge, true)
+        {
+            this.action = action;
+        }
+        public Entry(int x, int y, Delegate action) : base(x, y, 10, "", leftstandartVisual, rightstandartVisual, StandartConectorBafge, StandartСalmBadge, StandartInvertBadge, true)
+        {
+            this.action = action;
+        }
         public override string[] render(bool highlight)
         {
 

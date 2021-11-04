@@ -96,7 +96,7 @@ namespace ConsoleInterface.Classes
                         {
                             string[] render = elements[y, x].render(false);
 
-                            if ((x >= points[1] && x < (points[1] + render.Length)) && (y <= points[0] && y > points[0] - render[0].Length))
+                            if ((y >= points[1] && y < (points[1] + render.Length)) && (x <= points[0] && x > points[0] - render[0].Length))
                             {
                                 active = elements[y, x];
                                 render = elements[y, x].render(true);

@@ -24,6 +24,10 @@ namespace ConsoleInterface.Classes
         {
             this.action = null;
         }
+        public Label(int x, int y, string text) : base(x, y, 0, text, leftstandartVisual, rightstandartVisual, StandartConectorBafge, StandartСalmBadge, StandartInvertBadge, false)
+        {
+            this.action = null;
+        }
         public override string[] render(bool highlight)
         {
             string[] render_label = new string[1];
